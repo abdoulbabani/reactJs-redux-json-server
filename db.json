@@ -1,23 +1,22 @@
 {
   "pictures": [
     {
-      "artist": "Paulin Frustro",
-      "year": "2021",
-      "photo": "https://picsum.photos/400/352",
-      "addedDate": 1649240229849,
-      "id": 1
+      "artist": "abdoul",
+      "year": "2022",
+      "photo": "https://picsum.photos/400/446",
+      "id": 11
     },
     {
-      "artist": "Jidhun",
-      "year": "2009",
-      "photo": "https://picsum.photos/400/364",
-      "id": 8
+      "artist": "diallo",
+      "year": "2022",
+      "photo": "https://picsum.photos/400/405",
+      "id": 12
     },
     {
-      "artist": "From S",
-      "year": "2017",
-      "photo": "https://picsum.photos/400/342",
-      "id": 10
+      "artist": "Elyass",
+      "year": "2022",
+      "photo": "https://picsum.photos/400/343",
+      "id": 13
     }
   ]
 }
